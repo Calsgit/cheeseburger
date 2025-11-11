@@ -1,5 +1,7 @@
 """Main thing"""
 from product import Product
+from layout import kivything
+
 
 MAIN_FILE = "products.json"
 
